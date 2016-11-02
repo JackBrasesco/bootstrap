@@ -1,0 +1,2 @@
+# bootstrap
+Classadoo generated repo
